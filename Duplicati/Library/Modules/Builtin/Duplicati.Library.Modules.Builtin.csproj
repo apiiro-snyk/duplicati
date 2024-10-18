@@ -10,8 +10,8 @@
     <PackageReference Include="Artalk.Xmpp" Version="1.0.5" />
     <PackageReference Include="DnsClient" Version="1.4.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-    <PackageReference Include="MailKit" Version="2.4.1" />
-    <PackageReference Include="MimeKit" Version="2.4.1" />
+    <PackageReference Include="MailKit" Version="4.4.0" />
+    <PackageReference Include="MimeKit" Version="4.4.0" />
   </ItemGroup>
   
   <ItemGroup>
